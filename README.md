@@ -5,7 +5,7 @@ I'm a passionate AI/ML student with a keen interest in developing innovative mac
  --About Me
 
 - 🎓 Studying AI and Machine Learning at Panimalar Engineering College
-- 🌱 Currently learning python and basics of AI
-- 📫 Reach me through,EMAIL:dharanig.off@gmail.com
+- 🌱 Currently learning math required for machine learning
+
 
 
